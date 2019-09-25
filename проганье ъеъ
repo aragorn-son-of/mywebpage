@@ -33,7 +33,7 @@
 						<p><i><b>Карлсон, который живет на крыше, и просто хороший человек</b></i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg" title="photo" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+        	            <img src="zYkLxFfI4gY.jpg" title="самым сложным в этом задании был выбор фото" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
 					</div>
 	            </div>
 			</div>
@@ -47,11 +47,11 @@
 					</article>
 					<article>
 						<h3>Родной город</h2>
-						<p>Новосибирск</p>
+						<p>Рязань</p>
 					</article>
 					<article>
 						<h3>Школа</h2>
-						<p>СУНЦ НГУ</p>
+						<p>МАОУ "Лицей №4"</p>
 					</article>
 				</div>
 				<div class="col-md-6">
