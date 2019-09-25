@@ -30,10 +30,10 @@
 						<br/><br/>
 						<h1>Надежда Рассудимова</h1>
 						<hr>
-						<p><i><b>Карлсон, который живет на крыше, и просто хороший человек</b></i></p> 
+						<p><i><b>любопытный кот, которому одновременно больше и меньше всех надо</b></i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg?raw=true" title="самым сложным в этом задании был выбор фото" alt="здесь должно быть фото (но его почему то пока нет)" style="height:320px; margin:20px 20px 40px 20px" >
+        	            <img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg?raw=true" title="привет!" alt="здесь должно быть фото (но его по каким-то причинам нет, неполадочка)" style="height:320px; margin:20px 20px 40px 20px" >
 					</div>
 	            </div>
 			</div>
@@ -74,17 +74,15 @@
 				<div class="col-md-3">
 					<h3>Я в соцсетях</h3>
 					<ul>
-						<li>VK</li>
-						<li>Facebook</li>
-						<li>Twitter</li>
-						<li>Instagram</li>
+						<li><a href="https://vk.com/nrassudimova">VK</a></li>
+						<li><a href="https://www.instagram.com/neerass/">Instagram</a></li>
 					</ul>
 				</div>
 			</div>
 		</section>
 		<footer class="bs-docs-footer"> 
 			<div class="container"> 
-				<p style="text-align:right; ">&copy; В. Кузнецова, 2018</p> 
+				<p style="text-align:right; ">&copy; Н. Рассудимова, 2019</p> 
 			</div>
 		</footer>
 	</body>
