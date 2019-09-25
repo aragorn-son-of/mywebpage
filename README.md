@@ -1,3 +1,3 @@
 # mywebpage
 
-Hi, it's me amd i'm lost
+Hi, it's me and i'm lost
