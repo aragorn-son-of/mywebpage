@@ -26,15 +26,21 @@
 		<header style="background-color:plum; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<br/><br/>
 						<h1>Надежда Рассудимова</h1>
 						<hr>
 						<p><i><b>любопытный кот, которому одновременно больше и меньше всех надо</b></i></p> 
 	                </div>
-					<div class="col-md-6">
+					<div class="col-md-4">
         	            <img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg?raw=true" title="привет!" alt="здесь должно быть фото (но его по каким-то причинам нет, неполадочка)" style="height:320px; margin:20px 20px 40px 20px" >
 					</div>
+					<div class="col-md-4">
+					        <h3>Меня можно найти здесь:</h3>
+					<ul>
+						<li><a href="https://vk.com/nrassudimova"><font size="4">VK</font></a></li>
+						<li><a href="https://www.instagram.com/neerass/"><font size="4">Instagram</font></a></li>
+					</ul>
 	            </div>
 			</div>
 		</header>
@@ -54,7 +60,7 @@
 						<p>МАОУ "Лицей №4"</p>
 					</article>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<article>
 						<h3>О любви ко всяким вещицам</h2>
 						<p>Потихоньку пытаюсь разобраться в кино, вернуть детскую привычку читать всегда и обо всем. <br />
@@ -63,15 +69,6 @@
 						</p>
 						<img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/RKB3B_hbQGY.jpg?raw=true" title="a hero" alt="здесь должно быть фото (но его по каким-то причинам нет, неполадочка)" style="height:150px; margin:20px 20px 40px 20px" >
 					</article>
-					
-				
-				</div>
-				<div class="col-md-3">
-					<h3>Меня можно найти здесь:</h3>
-					<ul>
-						<li><a href="https://vk.com/nrassudimova"><font size="5">VK</font></a></li>
-						<li><a href="https://www.instagram.com/neerass/"><font size="5">Instagram</font></a></li>
-					</ul>
 				</div>
 			</div>
 		</section>
