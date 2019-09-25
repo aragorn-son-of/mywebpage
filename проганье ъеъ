@@ -33,7 +33,7 @@
 						<p><i><b>любопытный кот, которому одновременно больше и меньше всех надо</b></i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg?raw=true" title="привет!" alt="здесь должно быть фото (но его по каким-то причинам нет, неполадочка)" style="height:320px; margin:20px 20px 40px 20px" >
+        	            <a href="https://github.com/aragorn-son-of/mywebpage/blob/aragorn-son-of-patch-1/zYkLxFfI4gY.jpg?raw=true"><img src="zYkLxFfI4gY.jpg" title="привет!" alt="здесь должно быть мое фото (но его по каким-то причинам нет, неполадочка)" style="width:120px; height:320px" >
 					</div>
 					<div class="col-md-4">
 					        <br/><br/>
